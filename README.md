@@ -13,7 +13,6 @@ This notebook is designed for beginners who want to learn about quantum computin
 - [Prerequisites](#prerequisites)
 - [Getting Set Up](#getting-set-up)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -48,15 +47,12 @@ All you need is curiosity and a bit of patience. So, are you ready to dive into 
 ## Getting Set Up
 
 Before we begin, make sure you have Qiskit installed on your system. If you haven't already, you can install it by running:
-
-
+```bash
+pip install qiskit
+```
 
 Once you have Qiskit installed, you're all set to start your quantum adventure. Let's go!
 
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
