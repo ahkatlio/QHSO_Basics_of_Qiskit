@@ -1,4 +1,4 @@
-# Quantum Computing with Qiskit
+# Quantum Computing with Qiskit for High School Students
 
 **Welcome to the Quantum High School Organization's Quantum Computing Notebook! 🚀**
 
@@ -16,7 +16,7 @@ This notebook is your gateway to the exhilarating universe of quantum computing,
 
 ## Introduction
 
-Prepare to embark on an enthralling expedition into the captivating realm of quantum computing. This notebook is your personal guide through the fundamental concepts, empowering you to comprehend quantum mechanics, discern the unique characteristics of quantum bits (qubits) in contrast to their classical counterparts, construct your very first quantum circuit using Qiskit, execute that circuit on a tangible quantum computer, and tackle problems that showcase the formidable prowess of quantum computing.
+Prepare to embark on an enthralling expedition into the captivating realm of quantum computing. This notebook is your personal guide through the fundamental concepts, empowering you to comprehend quantum mechanics, discern the unique characteristics of quantum bits (qubits) in contrast to their classical counterparts, construct your very first quantum circuit using [Qiskit](https://qiskit.org/), execute that circuit on a tangible quantum computer, and tackle problems that showcase the formidable prowess of quantum computing.
 
 ## What is Quantum Computing?
 
