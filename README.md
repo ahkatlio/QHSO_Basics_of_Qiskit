@@ -1,6 +1,6 @@
 # Quantum Computing with Qiskit for High School Students
 
-**Welcome to the Quantum High School Organization's Quantum Computing Notebook! 🚀**
+**Welcome to the Quantum High School Organization's Quantum Computing Notebook for Beginners! 🚀**
 
 This notebook is your gateway to the exhilarating universe of quantum computing, tailored especially for enthusiastic beginners eager to explore the marvels of this field. Here, you'll master the art of leveraging Qiskit, a dynamic open-source quantum computing framework crafted by IBM.
 
