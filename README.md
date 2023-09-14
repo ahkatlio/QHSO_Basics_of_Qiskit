@@ -24,7 +24,7 @@ Quantum computing stands as the superhero of the computational universe. It harn
 
 ## Introducing Qiskit
 
-Our expedition into the quantum domain is made possible by Qiskit, an open-source quantum computing framework lovingly nurtured by IBM. Qiskit serves as your indispensable toolkit, empowering you to effortlessly craft and run quantum programs, opening the doors to limitless quantum exploration.
+Our expedition into the quantum domain is made possible by [Qiskit](https://qiskit.org/), an open-source quantum computing framework lovingly nurtured by IBM. [Qiskit](https://qiskit.org/) serves as your indispensable toolkit, empowering you to effortlessly craft and run quantum programs, opening the doors to limitless quantum exploration.
 
 ## What You'll Learn
 
