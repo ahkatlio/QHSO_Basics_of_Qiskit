@@ -88,17 +88,7 @@ pip install qiskit
 
 This command will download and install Qiskit along with the necessary libraries.
 
-### Step 3: Verify the Installation
-
-To ensure that Qiskit has been successfully installed, run the following command:
-
-```bash
-qiskit --version
-```
-
-You should see the Qiskit version information displayed in the terminal, indicating a successful installation.
-
-Congratulations! You've now set up Qiskit on your system and are ready to embark on your quantum computing journey.
+Congratulations🎉🎊! You've now set up Qiskit on your system and are ready to embark on your quantum computing journey.
 
 ## Next Steps
 
