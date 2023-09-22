@@ -8,7 +8,7 @@
 
 This notebook is your gateway to the exhilarating universe of quantum computing, tailored especially for enthusiastic beginners eager to explore the marvels of this field. Here, you'll master the art of leveraging Qiskit, a dynamic open-source quantum computing framework crafted by IBM.
 
-**Note**: This notebook is specially designed for use with Visual Studio Code (VSCode). If you're using VSCode, you'll find it to be a seamless experience. However, if you're using a different development environment, please ensure it's compatible with Jupyter notebooks for the best experience.
+**Note**: `This notebook is specially designed for use with Visual Studio Code (VSCode). If you're using VSCode, you'll find it to be a seamless experience. However, if you're using a different development environment, please ensure it's compatible with Jupyter notebooks for the best experience.`
 
 ## Table of Contents
 
