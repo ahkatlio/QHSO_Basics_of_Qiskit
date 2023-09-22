@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Images/logo_round.png" alt="LOGO" width="50">
 </p>
+
 # Quantum Computing with Qiskit for High School Students
 
 **Welcome to the Quantum High School Organization's Quantum Computing Notebook for Beginners! 🚀**
