@@ -27,6 +27,7 @@ To use this module, follow these steps:
 
 1. Go to the GitHub repository page.
 2. Click on the "Code" button and select "Download ZIP".
+![Download ZIP](https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Images/HowToDownload.png)
 3. Extract the downloaded ZIP file to a directory of your choice.
 4. Open Visual Studio Code and navigate to the extracted directory.
 5. Open the file ["intro.ipynb"](https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Intro.ipynb) to start the notebook.
