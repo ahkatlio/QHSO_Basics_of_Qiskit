@@ -14,7 +14,6 @@ This notebook is your gateway to the exhilarating universe of quantum computing,
 
 - [Introduction](#introduction)
 - [How to Use This Module](#how-to-use-this-module)
-- [What is Quantum Computing?](#what-is-quantum-computing)
 - [Introducing Qiskit](#introducing-qiskit)
 - [What You'll Learn](#what-youll-learn)
 - [Prerequisites](#prerequisites)
@@ -35,10 +34,6 @@ To use this module, follow these steps:
 3. Extract the downloaded ZIP file to a directory of your choice.
 4. Open Visual Studio Code and navigate to the extracted directory.
 5. Open the file ["intro.ipynb"](https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Intro.ipynb) to start the notebook.
-
-## What is Quantum Computing?
-
-Quantum computing stands as the superhero of the computational universe. It harnesses the enigmatic principles of quantum mechanics to tackle problems that would leave classical computers floundering for centuries. Imagine unlocking the ability to unravel intricate enigmas in mere seconds, challenges that once seemed insurmountable!
 
 ## Introducing Qiskit
 
