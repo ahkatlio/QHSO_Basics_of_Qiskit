@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Images/logo_round.png" alt="LOGO">
+  <img src="https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Images/logo_round.png" alt="LOGO" width="200">
 </p>
 # Quantum Computing with Qiskit for High School Students
 
