@@ -1,3 +1,4 @@
+![LOGO](https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Images/logo_round.png)
 # Quantum Computing with Qiskit for High School Students
 
 **Welcome to the Quantum High School Organization's Quantum Computing Notebook for Beginners! 🚀**
