@@ -8,5 +8,3 @@ def generate_hidden_binary_string():
     binary_string = ''.join(random.choices(['0', '1'], k=length))
     
     return binary_string
-
-print(generate_hidden_binary_string())
