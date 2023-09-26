@@ -1,9 +1,6 @@
-from HiddenCode import generate_hidden_binary_string
 from qiskit import QuantumCircuit
 
-def oracle_box():
-    # Get a random binary string
-    hidden_code = generate_hidden_binary_string()
+def oracle_box(hidden_code):
 
     # Get the length of the binary string
     length = len(hidden_code)
