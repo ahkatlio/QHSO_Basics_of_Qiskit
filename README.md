@@ -43,11 +43,19 @@ Our expedition into the quantum domain is made possible by [Qiskit](https://qisk
 
 Within the confines of this notebook, you will:
 
-- Grasp the essentials of quantum mechanics.
-- Distinguish quantum bits (qubits) from their classical counterparts.
+- Install essential tools like VSCode, Python, and Jupyter Notebook.
+- Learn how to set up and effectively use Jupyter Notebooks for quantum programming.
 - Forge your inaugural quantum circuit using Qiskit.
-- Execute your quantum creation on a bona fide quantum computer.
-- Tackle challenges spotlighting the astounding capabilities of quantum computing.
+- Acquaint yourself with Qiskit, a powerful quantum computing framework.
+- Gain debugging skills to troubleshoot any issues you encounter during the workshop.
+- Understand the core concepts of quantum mechanics and its significance in quantum computing.
+- Grasp key ideas such as Wave-Particle Duality, Quantization, Superposition, Entanglement, No-Cloning Theorem, and Quantum Measurement.
+- Define quantum computing and appreciate its fundamental differences from classical computing.
+- Get hands-on experience with IBM Quantum Experience, including account setup and using the lab and composer.
+- Explore the concept of Quantum Bits (Qubits) and their unique properties.
+- Dive into fundamental quantum gates and their practical applications.
+- Master Quantum Algorithm concepts such as Bell States and the Bernstein-Vazirani algorithm.
+- Understand how these advanced algorithms can be used for real-world quantum computing applications.
 
 ## Prerequisites
 
