@@ -1,15 +1,19 @@
-# Quantum Computing with Qiskit for High School Students
+<p align="center">
+  <img src="https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Images/logo_round.png" alt="LOGO" width="80">
+</p>
+
+<h1 align="center">Quantum Computing with Qiskit for High School Students</h1>
 
 **Welcome to the Quantum High School Organization's Quantum Computing Notebook for Beginners! 🚀**
 
 This notebook is your gateway to the exhilarating universe of quantum computing, tailored especially for enthusiastic beginners eager to explore the marvels of this field. Here, you'll master the art of leveraging Qiskit, a dynamic open-source quantum computing framework crafted by IBM.
 
-**Note**: This notebook is specially designed for use with Visual Studio Code (VSCode). If you're using VSCode, you'll find it to be a seamless experience. However, if you're using a different development environment, please ensure it's compatible with Jupyter notebooks for the best experience.
+**Note**: `This notebook is specially designed for use with Visual Studio Code (VSCode). If you're using VSCode, you'll find it to be a seamless experience. However, if you're using a different development environment, please ensure it's compatible with Jupyter notebooks for the best experience.`
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [What is Quantum Computing?](#what-is-quantum-computing)
+- [How to Use This Module](#how-to-use-this-module)
 - [Introducing Qiskit](#introducing-qiskit)
 - [What You'll Learn](#what-youll-learn)
 - [Prerequisites](#prerequisites)
@@ -20,9 +24,16 @@ This notebook is your gateway to the exhilarating universe of quantum computing,
 
 Prepare to embark on an enthralling expedition into the captivating realm of quantum computing. This notebook is your personal guide through the fundamental concepts, empowering you to comprehend quantum mechanics, discern the unique characteristics of quantum bits (qubits) in contrast to their classical counterparts, construct your very first quantum circuit using [Qiskit](https://qiskit.org/), execute that circuit on a tangible quantum computer, and tackle problems that showcase the formidable prowess of quantum computing.
 
-## What is Quantum Computing?
+## How to Use This Module
 
-Quantum computing stands as the superhero of the computational universe. It harnesses the enigmatic principles of quantum mechanics to tackle problems that would leave classical computers floundering for centuries. Imagine unlocking the ability to unravel intricate enigmas in mere seconds, challenges that once seemed insurmountable!
+To use this module, follow these steps:
+
+1. Go to the GitHub repository page.
+2. Click on the "Code" button and select "Download ZIP".
+![Download ZIP](https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Images/HowToDownload.png)
+3. Extract the downloaded ZIP file to a directory of your choice.
+4. Open Visual Studio Code and navigate to the extracted directory.
+5. Open the file ["intro.ipynb"](https://github.com/ahkatlio/QHSO_Basics_of_Qiskit/blob/main/Intro.ipynb) to start the notebook.
 
 ## Introducing Qiskit
 
@@ -32,11 +43,19 @@ Our expedition into the quantum domain is made possible by [Qiskit](https://qisk
 
 Within the confines of this notebook, you will:
 
-- Grasp the essentials of quantum mechanics.
-- Distinguish quantum bits (qubits) from their classical counterparts.
+- Install essential tools like VSCode, Python, and Jupyter Notebook.
+- Learn how to set up and effectively use Jupyter Notebooks for quantum programming.
 - Forge your inaugural quantum circuit using Qiskit.
-- Execute your quantum creation on a bona fide quantum computer.
-- Tackle challenges spotlighting the astounding capabilities of quantum computing.
+- Acquaint yourself with Qiskit, a powerful quantum computing framework.
+- Gain debugging skills to troubleshoot any issues you encounter during the workshop.
+- Understand the core concepts of quantum mechanics and its significance in quantum computing.
+- Grasp key ideas such as Wave-Particle Duality, Quantization, Superposition, Entanglement, No-Cloning Theorem, and Quantum Measurement.
+- Define quantum computing and appreciate its fundamental differences from classical computing.
+- Get hands-on experience with IBM Quantum Experience, including account setup and using the lab and composer.
+- Explore the concept of Quantum Bits (Qubits) and their unique properties.
+- Dive into fundamental quantum gates and their practical applications.
+- Master Quantum Algorithm concepts such as Bell States and the Bernstein-Vazirani algorithm.
+- Understand how these advanced algorithms can be used for real-world quantum computing applications.
 
 ## Prerequisites
 
