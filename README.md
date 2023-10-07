@@ -130,7 +130,7 @@ We extend a warm invitation for contributions! If you stumble upon a bug or harb
 
   | Social Media | Links |
   |--------------|-------|
-  | ![Discord](https://img.icons8.com/color/48/000000/discord-logo.png) | [Discord](https://discord.gg/yourusername) |
-  | ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://linkedin.com/in/yourusername) |
+  | ![Discord](https://img.icons8.com/color/48/000000/discord-logo.png) | [Discord](https://discord.gg/73qqu6GUBV) |
+  | ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/company/quantum-high-school-organization/) |
 
 </div>
