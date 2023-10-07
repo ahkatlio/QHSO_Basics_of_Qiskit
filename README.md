@@ -128,6 +128,5 @@ We extend a warm invitation for contributions! If you stumble upon a bug or harb
 
 | Social Media | Links |
 |--------------|-------|
-| ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) | [Twitter](https://twitter.com/yourusername) |
-| ![Facebook](https://img.icons8.com/color/48/000000/facebook.png) | [Facebook](https://facebook.com/yourusername) |
-| ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png) | [Instagram](https://instagram.com/yourusername) |
+| ![Discord](https://img.icons8.com/color/48/000000/discord-logo.png) | [Discord](https://discord.gg/yourusername) |
+| ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://linkedin.com/in/yourusername) |
