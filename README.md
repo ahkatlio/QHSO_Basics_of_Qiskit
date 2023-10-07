@@ -106,6 +106,11 @@ With your virtual environment (if used) activated, you can now install Qiskit an
 ```bash
 pip install qiskit
 ```
+and
+
+```bash
+pip install qiskit-aer
+```
 
 This command will download and install Qiskit along with the necessary libraries.
 
