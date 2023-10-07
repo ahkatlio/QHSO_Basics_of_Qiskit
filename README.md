@@ -126,7 +126,11 @@ We extend a warm invitation for contributions! If you stumble upon a bug or harb
 
 ## Follow Us
 
-| Social Media | Links |
-|--------------|-------|
-| ![Discord](https://img.icons8.com/color/48/000000/discord-logo.png) | [Discord](https://discord.gg/yourusername) |
-| ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://linkedin.com/in/yourusername) |
+<div align="center">
+
+  | Social Media | Links |
+  |--------------|-------|
+  | ![Discord](https://img.icons8.com/color/48/000000/discord-logo.png) | [Discord](https://discord.gg/yourusername) |
+  | ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://linkedin.com/in/yourusername) |
+
+</div>
