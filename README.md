@@ -123,3 +123,11 @@ With Qiskit installed, you're well-equipped to explore quantum computing concept
 ## Contributing
 
 We extend a warm invitation for contributions! If you stumble upon a bug or harbor dreams of witnessing a specific feature, please do us the honor of opening an issue on our GitHub repository. Your contributions will propel our quantum journey forward.
+
+## Follow Us
+
+| Social Media | Links |
+|--------------|-------|
+| ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) | [Twitter](https://twitter.com/yourusername) |
+| ![Facebook](https://img.icons8.com/color/48/000000/facebook.png) | [Facebook](https://facebook.com/yourusername) |
+| ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png) | [Instagram](https://instagram.com/yourusername) |
