@@ -19,6 +19,7 @@ This notebook is your gateway to the exhilarating universe of quantum computing,
 - [Prerequisites](#prerequisites)
 - [Getting Set Up](#getting-set-up)
 - [Contributing](#contributing)
+- [Follow Us](#follow-us)
 
 ## Introduction
 
