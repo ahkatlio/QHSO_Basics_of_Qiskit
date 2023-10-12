@@ -44,8 +44,6 @@ Our expedition into the quantum domain is made possible by [Qiskit](https://qisk
 
 Within the confines of this notebook, you will:
 
-- Install essential tools like VSCode, Python, and Jupyter Notebook.
-- Learn how to set up and effectively use Jupyter Notebooks for quantum programming.
 - Forge your inaugural quantum circuit using Qiskit.
 - Acquaint yourself with Qiskit, a powerful quantum computing framework.
 - Gain debugging skills to troubleshoot any issues you encounter during the workshop.
